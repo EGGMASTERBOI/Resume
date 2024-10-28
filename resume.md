@@ -62,7 +62,7 @@ I am aiming to apply analytical and technical skills to tackle real-world challe
 ---
 
 ## Achievements
-- **IB and AP Coursework:** Completed five AP courses and currently pursuing four Higher Level IB courses in math, science, and humanities  
+- **IB and AP Coursework:** Completed five AP courses and currently pursuing four Higher Level IB courses in math, computer science, biology, and english  
 - **Cyber Patriots Success:** Competed in various Cyber Patriots events, enhancing expertise in digital security and achieving significant team accomplishments  
 
 ---
