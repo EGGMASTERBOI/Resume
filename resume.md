@@ -1,5 +1,4 @@
 # Egan Ravindran
-1473 Holcomb Place, Placentia, CA 92870  
 **Email:** RijayEgan@gmail.com | **Phone:** 657-258-8103  
 
 ---
