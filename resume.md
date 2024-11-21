@@ -1,72 +1,81 @@
-# Egan Ravindran
-**Email:** RijayEgan@gmail.com | **Phone:** 657-258-8103  
+# Egan Ravindran  
+**Email:** RijayEgan@gmail.com | **Phone:** (657) 258-8103  
 
 ---
 
-## Objective
-I am aiming to apply analytical and technical skills to tackle real-world challenges and pursue further expertise in STEM fields.
+## Objective  
+As a junior in high school, I aim to apply my programming and cybersecurity skills to address digital security challenges while exploring emerging technologies such as quantum computing. I am eager to contribute to projects that tackle real-world issues and gain hands-on experience to deepen my understanding of STEM fields.  
 
 ---
 
-## Education
-**Valencia High School**, Placentia, CA  
-**Valtech Program & International Baccalaureate (IB) Student**  
-(Expected Graduation: 2026)  
-- **IB Higher Level (HL) Courses:** Math, Biology, Computer Science, and English  
-- **Completed AP Coursework:** AP Computer Science Principles, AP Computer Science A, AP U.S. History, AP Biology, and AP Precalculus  
-- **Completed Honors Coursework:** Algebra II Honors, PreCalculus Honors, Chemistry Honors, Biology Honors  
+## Education  
+**Valencia High School, Placentia, CA**  
+*Valencia Technology Program (Valtech) & International Baccalaureate (IB) Diploma Program*  
+**Expected Graduation:** June 2026  
+**Current GPA:** 4.49  
+
+### Relevant Courses and Skills:  
+- **IB Higher Level (HL) Courses:** Mathematics, Biology, Computer Science, and English  
+- **AP Courses:** Scored 5 in AP Computer Science A, AP U.S. History, AP Biology, and AP Precalculus  
+- **Technical Skills:** Proficient in Java programming, algorithm design, and HTML/CSS-based web development  
 
 ---
 
-## Experience
+## Experience  
 
-### Biotech Intern  
-**DynaFlex Technologies**, Yorba Linda | Summer 2024  
-- Supported laboratory operations and developed foundational biotech skills through hands-on tasks in research and analysis.
-- Enhanced understanding of lab protocols, data collection, and project-based research applications.
+### **Biotech Intern**  
+*DynaFlex Technologies, Yorba Linda, CA | Summer 2024*  
+- Prepared and packaged catheters, ensuring proper handling and sterilization for clinical use.  
+- Tracked inventory storage and assisted in implementing a new ERP system for managing product inventory.  
+- Prepared resin used in the development of catheters, contributing to the production process and improving operational efficiency.  
 
-### Cyber Patriots Club Member  
-**Valencia High School** | 2021 - 2024  
-- Actively participates in Cyber Patriots, a youth cybersecurity program involving simulated real-world cybersecurity challenges.
-- Engaged in network security, digital forensics, and defensive strategies, including configuring secure systems, managing vulnerabilities, and responding to cyber threats.
-- Competes in cybersecurity tournaments, using practical problem-solving and team collaboration to achieve strong results in national challenges.
+### **CyberPatriot Club Member**  
+*Valencia High School, Placentia, CA | 2021–Present*  
+- Secured simulated networks by identifying vulnerabilities, configuring firewalls, and resolving system breaches during national cybersecurity challenges.  
+- Ranked among the top 1% in CyberPatriot national tournaments.  
+- Developed expertise in digital forensics, vulnerability management, and collaborative problem-solving in high-pressure scenarios.  
 
-### Varsity Volleyball Team Member  
-**Valencia High School** | 2022–2024  
-- Demonstrates teamwork, resilience, and dedication by representing Valencia High School in varsity-level volleyball competitions.
+### **Varsity Volleyball Team Member**  
+*Valencia High School, Placentia, CA | 2022–Present*  
+- Represented Valencia High School at varsity-level competitions, showcasing teamwork.  
+- Mentored junior players, contributing to overall team cohesion and success.  
 
-### Volunteer  
-**Orange Coast Church**, Irvine | 2020 - 2024  
-- Contributes to church operations, dedicating two hours weekly to community support, event setup, and program assistance.
-
----
-
-## Academic Projects
-
-### Cybersecurity Exercises  
-- Engaged in practical cybersecurity exercises through Cyber Patriots, focusing on securing networks and systems against cyber threats and enhancing technical skill sets through targeted training.
-
-### Quantum Computing Exploration  
-- Completed projects and coursework exploring quantum computing principles, including qubit manipulation, quantum algorithms, and computational potential in solving complex problems.
-- Applied knowledge of quantum theory and computational techniques to understand emerging technologies and their future implications in cybersecurity and computing.
-
-### Valtech Program Projects  
-- Participated in technology-driven projects within the Valtech program, applying technical and analytical skills to address real-world engineering challenges.
+### **Volunteer**  
+*Orange Coast Church, Irvine, CA | 2020–Present*  
+- Contribute to church operations, dedicating two hours weekly to community support, event setup, and program assistance.  
+- Member of the Audio and Visual team which supports the live streaming, broadcasting, and sound systems of the Church.  
 
 ---
 
-## Skills
-- **Technical:** Proficient in Java programming, cybersecurity practices, biotechnology lab techniques, and introductory quantum computing concepts  
-- **Web Development:** Proficient in HTML, CSS, and JavaScript, and have created websites for competitions and personal projects  
+## Academic Projects  
+
+### **Cybersecurity Simulations**  
+- Implemented network security configurations to safeguard systems in simulated competitions.  
+- Analyzed and resolved system vulnerabilities, gaining hands-on experience in cybersecurity protocols.  
+- **GitHub:** [CyberPatriots Repository](https://github.com/RijayEgan/CyberPatriots)  
+
+### **Quantum Computing Exploration**  
+- Simulated quantum algorithms such as Grover’s and explored applications for cryptographic security.  
+- Utilized IBM Quantum Experience to manipulate qubits and gain insights into quantum theory.  
 
 ---
 
-## Achievements
-- **IB and AP Coursework:** Completed five AP courses and currently pursuing four Higher Level IB courses in math, computer science, biology, and english  
-- **Cyber Patriots Success:** Competed in various Cyber Patriots events, enhancing expertise in digital security and achieving significant team accomplishments  
+## Skills  
+- **Programming:** Java, Python, Batch, Shell  
+- **Cybersecurity:** Network security, digital forensics, vulnerability management  
+- **Biotechnology:** Lab techniques, data collection, sample preparation  
+- **Quantum Computing:** Qubit manipulation, basic quantum algorithms  
+- **Web Development:** Created responsive websites with HTML, CSS, JavaScript  
 
 ---
 
-## Personal Goals
-- Continuing to develop organizational and time management skills  
-- Committed to physical fitness and athletic growth through regular exercise and sports involvement  
+## Achievements  
+- Earned top grades (A or equivalent) in AP Computer Science A and AP Biology.  
+- Advanced to the semi-finals of the CyberPatriot National Youth Cyber Defense Competition, ranking among the top 1% of teams.  
+- Completed Higher Level IB coursework in STEM-focused subjects, including mathematics and computer science.  
+
+---
+
+## Personal Goals  
+- Continuing to develop organizational and time management skills.  
+- Committing to physical fitness and athletic growth through regular exercise and sports involvement.  
